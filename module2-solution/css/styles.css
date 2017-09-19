@@ -36,6 +36,8 @@ h1 {
   clear: right;
   height: 100px;
   top: 30px;
+  margin-left: 10px;
+  margin-right: 10; 
 }
 
 /********** Large devices only **********/
